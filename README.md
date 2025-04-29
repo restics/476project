@@ -10,10 +10,11 @@ Result: We didn't place, but we sure learned a good deal about LLMs and how they
     - Attempt at RAG (Retrieval Augmented Generation) via langchain
   
 ## Results
-  todo ig
+  todo, we never had a formalized testing framework
   
    
-Ideas if we had more time:
+## Ideas if we had more time: 
+ - testing framework
  - safety alignment (DPO, GRPO)
  - Self-consistency (majority vote)
  - prompt selection
