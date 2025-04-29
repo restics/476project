@@ -4,8 +4,8 @@ An custom instruction tuned version of Llama3.2-3B!
 Result: We didn't place, but we sure learned a good deal about LLMs and how they work!
 
 ## Overview:
-  Base Model: meta-llama/Llama-3.2-3B, fine tuned with 4-bit QLora
-  Inference optimizations:
+  - Base Model: meta-llama/Llama-3.2-3B, fine tuned with 4-bit QLora
+  - Inference optimizations:
     - Few Shot CoT prompting
     - Attempt at RAG (Retrieval Augmented Generation) via langchain
   
